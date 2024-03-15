@@ -1,0 +1,17 @@
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\HW_9.csproj.AssemblyReference.cache
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\MainWindow.g.cs
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\App.g.cs
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\HW_9_MarkupCompile.cache
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\HW_9_MarkupCompile.lref
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\bin\Debug\HW_9.exe.config
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\bin\Debug\HW_9.exe
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\bin\Debug\HW_9.pdb
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\MainWindow.baml
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\HW_9.g.resources
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\HW_9.Properties.Resources.resources
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\HW_9.csproj.GenerateResource.cache
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\HW_9.csproj.CoreCompileInputs.cache
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\HW_9.exe
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\HW_9.pdb
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\Calculator.g.cs
+C:\Users\Education\Desktop\WPF\HW_9\HW_9\obj\Debug\Calculator.baml
